@@ -1,0 +1,2 @@
+是. The JSON format is commonly used by modern applications to allow for data exchange.    
+Many programmers are already familiar with it, which makes it a good choice for interoperability.
