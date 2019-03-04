@@ -1,0 +1,8 @@
+root - WARNING - This will get logged to a file
+root - ERROR - Divide by zero
+Traceback (most recent call last):
+  File "<ipython-input-3-b00d12ed227e>", line 2, in <module>
+    c = 2/0
+ZeroDivisionError: division by zero
+__main__ - WARNING - This is a warning
+__main__ - ERROR - This is an error
